@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React E-Commerce Project — Beginner to Full App
 This repository contains the complete React e-commerce application built throughout the course. The project is designed to take you from zero React knowledge to building a real, production-style application using modern React patterns.
 
@@ -217,3 +218,6 @@ Use Context & custom hooks
 Implement routing and auth flows
 Build real-world features
 Deploy production apps
+=======
+# React-Eccommerce-App
+>>>>>>> e50922ae54886a8e99e05a01dcefc1fed10d743d
